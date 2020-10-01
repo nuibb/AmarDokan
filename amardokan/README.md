@@ -1,6 +1,6 @@
 # amardokan
 
-A new android & ios application for amar dokan in Bengali language.
+A new Flutter application.
 
 ## Getting Started
 

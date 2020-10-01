@@ -8,7 +8,7 @@ class LoginPage extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text(
-            'Amar Dokan',
+            'Jiggasha',
           ),
           centerTitle: true,
         ),
